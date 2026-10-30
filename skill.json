@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-sentinel-flux",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Sentinel Flux - CUSUM drift anomaly detector and autonomous circuit breaker with Holt linear trend forecasting.",
+  "tools": [
+    "detect_cusum_drift",
+    "compute_holt_trend",
+    "evaluate_circuit_breaker"
+  ]
+}
